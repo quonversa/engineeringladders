@@ -88,41 +88,6 @@ Keep reading to better understand each level.
 4. **Company**: makes an impact on the whole tech organization
 5. **Community**: makes an impact on the tech community
 
-# FAQs
-
-**What if some of the people don't meet all the points?**
-
-That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
-
-**What if my organization's career ladder is different?**
-
-Since the framework is open source, you have the opportunity to adapt it to your organization. Feel free to use the [chart template](charts/template.png) to define your own levels.
-
-**When is a person ready to move to the next level?**
-
-Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing a promotion.
-
-**How do I collect evidence to support the discussion with my direct reports?**
-
-Different teams collect evidence in different ways. A recommended approach is to use a combination of:
-* 1:1 conversations
-* Feedback from peers and other teams
-* Self-evaluation
-
-**Could the framework provide more specific examples of behavior to support each level?**
-
-Specific examples of behavior require knowledge about the way that the team works, the system architecture and its technology stack. It is recommended to allow each team to define their own examples.
-
-**Why does the framework stop at level 7?**
-
-Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign a diverse level of scope to positions so high in their structure.
-
-**Do you have any additional resources about the topic?**
-
-* [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): Camille Fournier does an excellent job at describing the expectations and challenges of many engineering positions. Also, she provides good advice about writing a career ladder in chapter 9.
-
-* [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote explains in simple terms how to define job responsibilities and how to evaluate performance (results and behaviors).
-
 # Other Pages
 
 * [**Developer**](Developer.md)
